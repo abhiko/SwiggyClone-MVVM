@@ -62,6 +62,6 @@ This is an evolving project. New features will be added step-by-step.
 
 
 
-https://github.com/user-attachments/assets/5404719d-3a88-4401-8a92-51f39ebc4b56
 
+https://github.com/user-attachments/assets/f1bf7b76-af2f-4460-842b-5b3618b8793e
 
