@@ -29,7 +29,7 @@ struct HomeHeaderView: View {
                     Spacer()
                 }
                 
-                Text("XYZ jbhsaaj")
+                Text("XYZ Mumbai")
                     .lineLimit(1)
                     .truncationMode(.tail)
                     .font(AppFont.medium(15))
