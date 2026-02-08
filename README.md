@@ -60,8 +60,7 @@ The structure is designed to scale easily as new tabs and modules are added.
 This is an evolving project. New features will be added step-by-step.
 
 
-
-
+## 📱 App Demo
 
 https://github.com/user-attachments/assets/f1bf7b76-af2f-4460-842b-5b3618b8793e
 
